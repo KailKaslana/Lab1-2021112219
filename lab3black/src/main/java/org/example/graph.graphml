@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <key id="edge_weight_key" for="edge" attr.name="weight" attr.type="double">
+        <default>1.0</default>
+    </key>
+    <graph edgedefault="directed">
+        <node id="date"/>
+        <node id="banana"/>
+        <node id="cherry"/>
+        <node id="apple"/>
+        <node id="honeydew"/>
+        <node id="lemon"/>
+        <node id="fig"/>
+        <node id="grape"/>
+        <node id="kiwi"/>
+        <edge source="date" target="banana">
+            <data key="edge_weight_key">8.0</data>
+        </edge>
+        <edge source="date" target="cherry">
+            <data key="edge_weight_key">12.0</data>
+        </edge>
+        <edge source="date" target="apple">
+            <data key="edge_weight_key">3.0</data>
+        </edge>
+        <edge source="date" target="honeydew">
+            <data key="edge_weight_key">14.0</data>
+        </edge>
+        <edge source="date" target="lemon">
+            <data key="edge_weight_key">8.0</data>
+        </edge>
+        <edge source="date" target="fig">
+            <data key="edge_weight_key">6.0</data>
+        </edge>
+        <edge source="date" target="grape">
+            <data key="edge_weight_key">2.0</data>
+        </edge>
+        <edge source="banana" target="date">
+            <data key="edge_weight_key">6.0</data>
+        </edge>
+        <edge source="banana" target="cherry">
+            <data key="edge_weight_key">8.0</data>
+        </edge>
+        <edge source="banana" target="honeydew">
+            <data key="edge_weight_key">4.0</data>
+        </edge>
+        <edge source="banana" target="apple">
+            <data key="edge_weight_key">3.0</data>
+        </edge>
+        <edge source="banana" target="kiwi">
+            <data key="edge_weight_key">8.0</data>
+        </edge>
+        <edge source="banana" target="lemon"/>
+        <edge source="banana" target="fig">
+            <data key="edge_weight_key">19.0</data>
+        </edge>
+        <edge source="banana" target="grape">
+            <data key="edge_weight_key">15.0</data>
+        </edge>
+        <edge source="honeydew" target="date">
+            <data key="edge_weight_key">8.0</data>
+        </edge>
+        <edge source="honeydew" target="banana">
+            <data key="edge_weight_key">32.0</data>
+        </edge>
+        <edge source="honeydew" target="cherry">
+            <data key="edge_weight_key">3.0</data>
+        </edge>
+        <edge source="honeydew" target="apple">
+            <data key="edge_weight_key">5.0</data>
+        </edge>
+        <edge source="honeydew" target="kiwi">
+            <data key="edge_weight_key">4.0</data>
+        </edge>
+        <edge source="honeydew" target="lemon"/>
+        <edge source="honeydew" target="fig">
+            <data key="edge_weight_key">3.0</data>
+        </edge>
+        <edge source="honeydew" target="grape">
+            <data key="edge_weight_key">4.0</data>
+        </edge>
+        <edge source="apple" target="date">
+            <data key="edge_weight_key">11.0</data>
+        </edge>
+        <edge source="apple" target="banana"/>
+        <edge source="apple" target="honeydew">
+            <data key="edge_weight_key">9.0</data>
+        </edge>
+        <edge source="apple" target="cherry">
+            <data key="edge_weight_key">12.0</data>
+        </edge>
+        <edge source="apple" target="lemon">
+            <data key="edge_weight_key">2.0</data>
+        </edge>
+        <edge source="apple" target="kiwi">
+            <data key="edge_weight_key">2.0</data>
+        </edge>
+        <edge source="apple" target="fig"/>
+        <edge source="apple" target="grape">
+            <data key="edge_weight_key">7.0</data>
+        </edge>
+        <edge source="cherry" target="banana">
+            <data key="edge_weight_key">6.0</data>
+        </edge>
+        <edge source="cherry" target="date">
+            <data key="edge_weight_key">11.0</data>
+        </edge>
+        <edge source="cherry" target="honeydew">
+            <data key="edge_weight_key">7.0</data>
+        </edge>
+        <edge source="cherry" target="apple">
+            <data key="edge_weight_key">6.0</data>
+        </edge>
+        <edge source="cherry" target="kiwi">
+            <data key="edge_weight_key">10.0</data>
+        </edge>
+        <edge source="cherry" target="lemon">
+            <data key="edge_weight_key">5.0</data>
+        </edge>
+        <edge source="cherry" target="fig">
+            <data key="edge_weight_key">9.0</data>
+        </edge>
+        <edge source="cherry" target="grape">
+            <data key="edge_weight_key">7.0</data>
+        </edge>
+        <edge source="kiwi" target="banana">
+            <data key="edge_weight_key">4.0</data>
+        </edge>
+        <edge source="kiwi" target="date">
+            <data key="edge_weight_key">3.0</data>
+        </edge>
+        <edge source="kiwi" target="apple">
+            <data key="edge_weight_key">9.0</data>
+        </edge>
+        <edge source="kiwi" target="cherry">
+            <data key="edge_weight_key">8.0</data>
+        </edge>
+        <edge source="kiwi" target="honeydew">
+            <data key="edge_weight_key">7.0</data>
+        </edge>
+        <edge source="kiwi" target="lemon">
+            <data key="edge_weight_key">18.0</data>
+        </edge>
+        <edge source="kiwi" target="fig">
+            <data key="edge_weight_key">2.0</data>
+        </edge>
+        <edge source="kiwi" target="grape">
+            <data key="edge_weight_key">11.0</data>
+        </edge>
+        <edge source="lemon" target="banana">
+            <data key="edge_weight_key">4.0</data>
+        </edge>
+        <edge source="lemon" target="date">
+            <data key="edge_weight_key">9.0</data>
+        </edge>
+        <edge source="lemon" target="cherry">
+            <data key="edge_weight_key">4.0</data>
+        </edge>
+        <edge source="lemon" target="apple">
+            <data key="edge_weight_key">13.0</data>
+        </edge>
+        <edge source="lemon" target="honeydew">
+            <data key="edge_weight_key">7.0</data>
+        </edge>
+        <edge source="lemon" target="kiwi">
+            <data key="edge_weight_key">3.0</data>
+        </edge>
+        <edge source="lemon" target="fig">
+            <data key="edge_weight_key">10.0</data>
+        </edge>
+        <edge source="lemon" target="grape">
+            <data key="edge_weight_key">10.0</data>
+        </edge>
+        <edge source="fig" target="date">
+            <data key="edge_weight_key">2.0</data>
+        </edge>
+        <edge source="fig" target="banana">
+            <data key="edge_weight_key">8.0</data>
+        </edge>
+        <edge source="fig" target="honeydew">
+            <data key="edge_weight_key">11.0</data>
+        </edge>
+        <edge source="fig" target="cherry">
+            <data key="edge_weight_key">9.0</data>
+        </edge>
+        <edge source="fig" target="kiwi">
+            <data key="edge_weight_key">16.0</data>
+        </edge>
+        <edge source="fig" target="lemon">
+            <data key="edge_weight_key">11.0</data>
+        </edge>
+        <edge source="fig" target="grape">
+            <data key="edge_weight_key">5.0</data>
+        </edge>
+        <edge source="grape" target="date">
+            <data key="edge_weight_key">3.0</data>
+        </edge>
+        <edge source="grape" target="cherry">
+            <data key="edge_weight_key">5.0</data>
+        </edge>
+        <edge source="grape" target="apple">
+            <data key="edge_weight_key">6.0</data>
+        </edge>
+        <edge source="grape" target="honeydew"/>
+        <edge source="grape" target="lemon">
+            <data key="edge_weight_key">14.0</data>
+        </edge>
+        <edge source="grape" target="kiwi">
+            <data key="edge_weight_key">20.0</data>
+        </edge>
+        <edge source="grape" target="fig">
+            <data key="edge_weight_key">12.0</data>
+        </edge>
+    </graph>
+</graphml>
